@@ -93,13 +93,3 @@ A professional, efficient, and extensible smart traffic light controller for AVR
 - **Extending:** Add more states, directions, or features by expanding the state machine.
 
 ---
-
-## Contribution & License
-- **Contributions:** Pull requests and suggestions welcome!
-- **License:** Open-source, for educational and smart city prototyping use.
-
----
-
-## Author & Contact
-- Created by [Your Name or Organization]
-- For questions or collaboration, open an issue or contact via GitHub. 
